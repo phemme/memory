@@ -1,4 +1,4 @@
 (J'ai ajouté le nb de coups en plus du temps pour les meilleurs scores...)
 
-Extraction et insertion des données dans une base MySql en PHP
-le Jeu est accessible sur un dossier d'un d emes sites pros : https://www.web-site-concept.pro/oclock/memory.php
+Extraction et insertion des données dans une base MySql en PHP.
+le Jeu est accessible directement sur un dossier d'un de mes sites pros : https://www.web-site-concept.pro/oclock/memory.php
