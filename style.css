@@ -1,0 +1,93 @@
+    /* Basic */
+
+
+body
+{
+    background-color: #EEEEEEE;
+    color: #474f51;
+    font-size: 11pt;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    line-height: 1.85em;
+    font-weight: 300;
+    text-align:center;
+}
+
+#page {
+    display:block;
+    width:600px;
+    margin:0 auto;
+}
+
+#jeu {
+    width:600px;
+    height:300px;
+    margin:10px auto;
+}
+
+/*barre progression*/
+#pwidget
+{
+    background-color:lightgray;
+    width:600px;
+    padding:2px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    text-align:center;
+    border:1px solid gray;	
+}
+
+#progressbar
+{
+    width: 600px;
+    text-align:center;
+    padding: 1px;
+    background-color: white;
+    border: 1px solid black;
+    height: 28px;
+}
+
+#indicator
+{
+    text-align:center;
+    background-image:url("images/shaded-red.png");
+    height:28px;
+    margin:0;
+}
+
+#progressnum
+{
+    width: 100%;
+}
+
+h1 {
+    margin:13px auto 3px; 
+    text-align:center;
+    }
+    input {
+    color: #474f51;
+    line-height: 1.2em;
+    margin-bottom:5px;
+}
+
+img {
+    display:block;
+    margin:0;
+    border:0;
+    float:left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    opacity:0.8;
+    transition: 0.5s;
+
+}
+
+img:hover {
+    transform:rotate(3deg);
+    -ms-transform:rotate(3deg); /* IE 9 */
+    -webkit-transform:rotate(3deg); /* Opera, Chrome, and Safari */
+    transition: 1s;
+}
+
+#chronotime { 
+    border:none;
+	text-align:center
+}
