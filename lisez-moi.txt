@@ -1,4 +1,9 @@
-(J'ai ajouté le nb de coups en plus du temps pour les meilleurs scores...)
+Bonjour,
+
+Je connais un peu SASS, amis ne l'est encore jamais utilisé.
+Je ne l'ai donc pas utilisé pour ce petit projet qui n'a nécéssité que très peu de CSS...
 
 Extraction et insertion des données dans une base MySql en PHP.
 le Jeu est accessible directement sur un dossier d'un de mes sites pros : https://www.web-site-concept.pro/oclock/memory.php
+
+(J'ai ajouté le nb de coups en plus du temps pour les meilleurs scores...)
