@@ -1,6 +1,6 @@
 Bonjour,
 
-Je connais un peu SASS, amis ne l'est encore jamais utilisé.
+Je connais un peu SASS, mais ne l'est encore jamais utilisé.
 Je ne l'ai donc pas utilisé pour ce petit projet qui n'a nécéssité que très peu de CSS...
 
 Extraction et insertion des données dans une base MySql en PHP.
